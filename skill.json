@@ -1,0 +1,14 @@
+{
+  "name": "genpark-lookahead-k-step-optimizer-skill",
+  "version": "1.0.0",
+  "description": "Lookahead optimizer wrapper stabilizing optimization trajectories by interpolating fast and slow weights every k steps.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "lookahead",
+    "optimizer",
+    "deep-learning",
+    "loss-landscape",
+    "stability"
+  ]
+}
